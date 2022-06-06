@@ -1,0 +1,28 @@
+.contenedor-imagen h1{
+    color: red;
+    font-size: 50px;
+}
+.p{ 
+color: blueviolet;
+font-size: 25px;
+}
+
+
+body{
+font-family: Verdana;
+background: url("https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+background-repeat: repeat;
+}
+
+h1, p{
+color:000000;
+text-align: center;
+}
+
+div{
+
+width: 60%;
+height: 500px;
+background: white;
+margin: auto;
+}
